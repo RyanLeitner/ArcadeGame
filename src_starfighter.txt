@@ -1,0 +1,10 @@
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Alien.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\AlienHorde.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Ammo.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Bullets.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Moveable.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\MovingThing.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\OuterSpace.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Ship.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\Shiptest.java
+C:\Users\stacey.armstrong\Desktop\aplus_stuff\0_curriculum\2.aplus_intermediateCS_apcsa_06.2012\labs\lab25_starfighter\StarFighter.java
